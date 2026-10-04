@@ -1,6 +1,3 @@
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tuamay-A)
 
 ---
 <div align="center">
